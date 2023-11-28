@@ -1,0 +1,11 @@
+/*
+    *= require_self
+    *= require_tree
+*/
+
+@import 'actiontext.css';
+@import 'trix';
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
